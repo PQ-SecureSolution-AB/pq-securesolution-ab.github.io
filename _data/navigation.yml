@@ -12,12 +12,12 @@ main:
 products:
    - title: "Products and Partners"
      url: /products/
+   - title: "Managed Services"
+     url: /products/managed-services/
    - title: "Entrust nShield HSM"
      url: /products/nshield-hsm/
    - title: "Entrust Cryptographic Security Platform"
      url: /products/entrust-csp/
-   - title: "Managed Services"
-     url: /products/managed-services/
 
 about-us:
    - title: "About Us"

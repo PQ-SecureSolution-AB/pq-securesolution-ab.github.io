@@ -16,7 +16,7 @@ feature_row:
     excerpt: "As head of sales, Carl is one of the biggest names in the Nordics when talking about HSMs"
 ---
 
-SecureSolution can provice a wide range of Proffesional and Managed Services for your organizational needs.
+PQ SecureSolution AB can provide a wide range of proffesional and managed services for your organizational needs.
 
 - Professional Services
 
