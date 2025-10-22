@@ -28,9 +28,9 @@
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     <time style="font-size:14px;" class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
       {%- assign date_format = site.minima.date_format | default: "%-d %b, %Y" -%}
-      Publicerad {{ post.date | date: date_format }}
+      Published {{ post.date | date: date_format }}
       {%- if post.updated_date -%}
-      &nbsp// Uppdaterad {{ post.updated_date | date: date_format }}
+      &nbsp// Updated {{ post.updated_date | date: date_format }}
       {%- endif -%}
     </time>
   </article>

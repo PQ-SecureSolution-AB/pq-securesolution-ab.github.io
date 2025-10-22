@@ -6,7 +6,7 @@ main:
      url: /faq/
    - title: "Products"
      url: /products/
-   - title: "News"
+   - title: "News Archive"
      url: /news/
 
 products:

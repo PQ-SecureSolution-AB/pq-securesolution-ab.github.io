@@ -10,7 +10,7 @@ header:
 
 SecureSolution is your premier provider of cryptographic security solutions. 
 
-## Nyheter
+## News
 <div class="grid__wrapper">
   {% for post in site.posts limit:4 %}
     {% include archive-single.html type="grid" %}
