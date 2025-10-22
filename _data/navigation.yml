@@ -1,0 +1,14 @@
+# main links
+main:
+   - title: "Technical Solutions"
+     url: /technical-solutions/
+   - title: "News"
+     url: /news/
+   - title: "FAQ"
+     url: /faq/
+
+products:
+   - title: "nShield HSM"
+     url: /products/nshield-hsm/
+   - title: "Managed Services"
+     url: /products/managed-services/
