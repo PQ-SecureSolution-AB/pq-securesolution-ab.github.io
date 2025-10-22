@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PQ SecureSolution AB"
 description              : "Your cryptograhic Security Provider"
-url                      : "https://securesolution.se"
+url                      : "https://pq-securesolution-ab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PQ-SecureSolution-AB/securesolution.se"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
