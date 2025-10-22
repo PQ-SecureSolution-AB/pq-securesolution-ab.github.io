@@ -20,13 +20,13 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "PQ SecureSolution AB"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "PQ SecureSolution AB"
+name                     : # "PQ SecureSolution AB"
 description              : "Your cryptograhic Security Provider"
 url                      : "https://pq-securesolution-ab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PQ-SecureSolution-AB/securesolution.se"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/Securesolution-logo-transparent.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
