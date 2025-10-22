@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-SE"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : # "PQ SecureSolution AB"
+title                    : "PQ SecureSolution AB"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     :  "PQ SecureSolution AB"
@@ -25,9 +25,9 @@ description              : "Your cryptograhic Security Provider"
 url                      : "https://pq-securesolution-ab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PQ-SecureSolution-AB/securesolution.se"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/home-banner.jpg"
 logo                     : "/assets/images/Securesolution-logo-transparent.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " "
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -119,9 +119,9 @@ author:
   location         : "Observatoriegatan 6, 113 29 Stockholm"
   email            : "info@securesolution.se"
   links:
-    #- label: "Email"
-    #  icon: "fas fa-fw fa-envelope-square"
-    #  # url: "mailto:your.name@email.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@securesolution.se"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  # url: "https://your-website.com"
@@ -144,6 +144,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-square"
       url: https://www.linkedin.com/company/securesolution
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@securesolution.se"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
     #  url: 
