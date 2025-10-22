@@ -1,6 +1,6 @@
 ---
 title: Question 2
-permalink: /faq/question-2
+permalink: /faq/question-2/
 layout: single
 author_profile: false
 header:
