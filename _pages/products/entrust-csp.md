@@ -1,6 +1,6 @@
 ---
-title: Cryptographic Security Platform
-permalink: /products/csp/
+title: Entrust Cryptographic Security Platform
+permalink: /products/entrust-csp/
 layout: single
 author_profile: false
 header:

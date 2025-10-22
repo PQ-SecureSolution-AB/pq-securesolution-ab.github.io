@@ -9,6 +9,11 @@ header:
   overlay_image: /assets/images/banner.jpg
 sidebar:
   nav: products
+feature_row:
+  - image_path: /assets/images/headshot-carl.jpg
+    alt: "Carl Persson"
+    title: "Carl Persson"
+    excerpt: "As head of sales, Carl is one of the biggest names in the Nordics when talking about HSMs"
 ---
 
 SecureSolution can provice a wide range of Proffesional and Managed Services for your organizational needs.

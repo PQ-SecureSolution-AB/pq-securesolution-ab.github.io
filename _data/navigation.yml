@@ -10,12 +10,12 @@ main:
      url: /news/
 
 products:
-   - title: "Products"
+   - title: "Products and Partners"
      url: /products/
    - title: "nShield HSM"
      url: /products/nshield-hsm/
-   - title: "Cryptographic Security Platform"
-     url: /products/csp/
+   - title: "Entrust Cryptographic Security Platform"
+     url: /products/entrust-csp/
    - title: "Managed Services"
      url: /products/managed-services/
 
