@@ -6,7 +6,7 @@ header:
   image: /assets/images/home-banner.jpg
 ---
 
-# Your cruptograhic security provider.
+# Your cryptograhic security provider.
 
 
 ## Nyheter

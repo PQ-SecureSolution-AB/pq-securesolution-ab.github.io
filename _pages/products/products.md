@@ -1,5 +1,5 @@
 ---
-title: Information för Boende
+title: Products
 permalink: /products/
 layout: single
 author_profile: false
