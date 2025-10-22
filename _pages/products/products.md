@@ -11,8 +11,17 @@ sidebar:
   nav: products
 feature_row:
   - image_path: /assets/images/entrust-logo.jpg
-    alt: "Entrsut"
-    excerpt: "PQ SecurSolution AB Works closely with Entrust to deliver some of the industrys safest and most reliable cryptographic solutions"
+    alt: "Entrust"
+    url: "https://www.entrust.com/"
+    excerpt: "We work closely with Entrust to deliver some of the industrys safest and most reliable cryptographic solutions"
+  - image_path: /assets/images/addsec-logo.jpg
+    alt: "Addsec AB"
+    url: "https://addsec.se/"
+    excerpt: "We Work closely with Addsec AB to deliver some of the industrys safest and most reliable cryptographic solutions"
+  - image_path: /assets/images/mad-river-logo.jpg
+    alt: "Mad River Consulting AB"
+    url: "https://madriverconsulting.se/"
+    excerpt: "We Work closely with Mad River Consulting AB to deliver some of the industrys safest and most reliable cryptographic solutions"
 ---
 
 We work with our partners to provide our customers with cutting edge cryptographic solutions and services.
