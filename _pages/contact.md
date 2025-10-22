@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
   overlay_image: /assets/images/banner.jpg
 ---
-# Contact Us
+# Contact Information
 PQ Securesolution AB<br>
 Observatoriegatan 6<br>
 113 29 Stockholm
