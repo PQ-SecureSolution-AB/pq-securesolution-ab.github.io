@@ -14,3 +14,9 @@ products:
      url: /products/nshield-hsm/
    - title: "Managed Services"
      url: /products/managed-services/
+
+faq:
+   - title: "Question 1"
+     url: /faq//question-1/
+   - title: "Question 2"
+     url: /faq/question-2/
