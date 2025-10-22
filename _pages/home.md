@@ -8,6 +8,7 @@ header:
 
 # Your cryptograhic security provider.
 
+SecureSolution is your premier provider of cryptographic security solutions. 
 
 ## Nyheter
 <div class="grid__wrapper">

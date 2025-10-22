@@ -1,5 +1,7 @@
 # main links
 main:
+   - title: "Contact Us"
+     url: /contact/
    - title: "FAQ"
      url: /faq/
    - title: "Products"
