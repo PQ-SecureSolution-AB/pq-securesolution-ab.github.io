@@ -2,7 +2,7 @@
 layout: article
 title:  "Entrust Customer Notice: New SSL CA Root Certificate must be imported in Identity Enterprise Self-Service Module (SSM) Key Store."
 header:
-  teaser: /assets/images/entrust-logo.jpeg
+  teaser: /assets/images/entrust-logo.jpg
 categories:
 tags:
 date: 2025-09-17
