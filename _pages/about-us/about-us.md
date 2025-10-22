@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/headshot-mats.jpg
     alt: "Mats Johansson"
     title: "Mats Johansson"
-    excerpt: "As head of consulting, Mats has a long and proven track record of managing some of the industries top consultants."
+    excerpt: "As head of consulting, Mats has a long and proven track record of managing some of the industrys top consultants."
 ---
 
 PQ SecureSolution AB was founded in 2025 by veterans of the industry with a goal to provide superier services in the Nordic cryptography market.
