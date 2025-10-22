@@ -5,9 +5,9 @@ layout: archive
 
 <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
   {%- assign date_format = site.minima.date_format | default: "%-d %b, %Y" -%}
-  Publicerad {{ page.date | date: date_format }}
+  Published {{ page.date | date: date_format }}
   {%- if page.updated_date -%}
-  &nbsp// Uppdaterad {{ page.updated_date | date: date_format }}
+  &nbsp// Updated {{ page.updated_date | date: date_format }}
   {%- endif -%}
 </time>
 
