@@ -12,7 +12,7 @@ main:
 products:
    - title: "Products and Partners"
      url: /products/
-   - title: "nShield HSM"
+   - title: "Entrust nShield HSM"
      url: /products/nshield-hsm/
    - title: "Entrust Cryptographic Security Platform"
      url: /products/entrust-csp/

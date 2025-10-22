@@ -1,5 +1,5 @@
 ---
-title: nShield HSM
+title: Entrust nShield HSM
 permalink: /products/nshield-hsm/
 layout: single
 author_profile: false
