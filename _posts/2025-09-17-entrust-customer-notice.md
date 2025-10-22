@@ -8,7 +8,7 @@ tags:
 date: 2025-09-17
 updated_date: 
 ---
-![image tooltip here](/assets/images/entrust-logo.jpeg)
+![image tooltip here](/assets/images/entrust-logo.jpg)
 
 Attention Entrust Identity Enterprise Customers,
 
