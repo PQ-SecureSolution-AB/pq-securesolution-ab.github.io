@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-SE"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "PQ"
+title                    : "PQ SecureSolution AB"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "PQ SecureSolution AB"
-description              : "Your cruptograhic security provider"
-url                      : "https://securesolution.github.io"
+description              : "Your cryptograhic Security Provider"
+url                      : "https://securesolution.se"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "PQ-SecureSolution-AB/securesolution.se"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -141,9 +141,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: https://www.linkedin.com/company/securesolution
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
-    #  url: https://www.facebook.com/groups/169453940385466
+    #  url: 
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  # url:

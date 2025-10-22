@@ -1,7 +1,7 @@
 # main links
 main:
-   - title: "Technical Solutions"
-     url: /technical-solutions/
+   - title: "Products"
+     url: /products/
    - title: "News"
      url: /news/
    - title: "FAQ"

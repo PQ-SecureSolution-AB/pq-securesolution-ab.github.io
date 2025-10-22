@@ -3,7 +3,7 @@ title: "PQ SecureSolution AB"
 layout: splash
 permalink: /
 header:
-  image: /assets/images/banner.jpg
+  image: /assets/images/home-banner.jpg
 ---
 
 # Your cruptograhic security provider.
