@@ -14,6 +14,8 @@ products:
      url: /products/
    - title: "nShield HSM"
      url: /products/nshield-hsm/
+   - title: "Cryptographic Security Platform"
+     url: /products/csp/
    - title: "Managed Services"
      url: /products/managed-services/
 
