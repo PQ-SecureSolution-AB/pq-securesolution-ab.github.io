@@ -1,11 +1,11 @@
 # main links
 main:
+   - title: "FAQ"
+     url: /faq/
    - title: "Products"
      url: /products/
    - title: "News"
      url: /news/
-   - title: "FAQ"
-     url: /faq/
 
 products:
    - title: "nShield HSM"
