@@ -2,8 +2,8 @@
 main:
    - title: "Contact Us"
      url: /contact/
-   - title: "FAQ"
-     url: /faq/
+   - title: "About Us"
+     url: /about-us/
    - title: "Products"
      url: /products/
    - title: "News Archive"
