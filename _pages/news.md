@@ -1,5 +1,5 @@
 ---
-title: News
+title: News Archive
 permalink: /news/
 layout: posts
 author_profile: false

@@ -22,7 +22,7 @@ feature_row:
     excerpt: "As head of consulting, Mats has a long and proven track record of managing some of the industrys top consultants."
 ---
 
-PQ SecureSolution AB was founded in 2025 by veterans of the industry with a goal to provide superior services in the Nordic cryptography market.
+PQ SecureSolution AB was founded in 2025 by veterans of the industry with the goal of providing superior services in the Nordic cryptography market.
 
 {% include feature_row %}
 
