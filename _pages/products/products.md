@@ -17,12 +17,12 @@ feature_row:
     excerpt: "We work closely with Entrust to deliver some of the industrys safest and most reliable cryptographic solutions"
   - image_path: /assets/images/addsec-logo.jpg
     alt: "Addsec AB"
-    title: Addesc AB
+    title: Addesc
     url: "https://addsec.se/"
     excerpt: "We Work closely with Addsec AB to deliver some of the industrys safest and most reliable cryptographic solutions"
   - image_path: /assets/images/mad-river-logo.jpg
     alt: "Mad River Consulting AB"
-    title: "Mad River Consulting AB"
+    title: "Mad River"
     url: "https://madriverconsulting.se/"
     excerpt: "We Work closely with Mad River Consulting AB to deliver some of the industrys safest and most reliable cryptographic solutions"
 ---
