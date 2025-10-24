@@ -17,7 +17,7 @@ feature_row:
     excerpt: "We work closely with Entrust to deliver some of the industrys safest and most reliable cryptographic solutions"
   - image_path: /assets/images/addsec-logo.jpg
     alt: "Addsec AB"
-    title: Addesc
+    title: Addsec
     url: "https://addsec.se/"
     excerpt: "We Work closely with Addsec AB to deliver some of the industrys safest and most reliable cryptographic solutions"
   - image_path: /assets/images/mad-river-logo.jpg
