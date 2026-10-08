@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/headshot-carl.jpg
     alt: "Carl Persson"
     title: "Carl Persson"
-    excerpt: "As head of sales, Carl is one of the biggest names in the Nordics when talking about HSMs"
+    excerpt: "As head of sales, Carl is one of the most reputable names in the Nordics when talking about HSMs"
   - image_path: /assets/images/headshot-anders.jpg
     alt: "Anders Palm"
     title: "Anders Palm"
