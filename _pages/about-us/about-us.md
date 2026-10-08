@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/headshot-anders.jpg
     alt: "Anders Palm"
     title: "Anders Palm"
-    excerpt: "As tecnical director, Anders has a three decades long history of delivering secure and scalable techical solutions"
+    excerpt: "As technical director, Anders has a three decades long history of delivering secure and scalable techical solutions"
   - image_path: /assets/images/headshot-mats.jpg
     alt: "Mats Johansson"
     title: "Mats Johansson"
